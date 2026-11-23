@@ -22,7 +22,7 @@ source 1: In the app it helped me learn how to make text bolder and under line t
   }
   h5 {
     font-size: 21px;
-
+EDP: In this Entry I did research on the design process of engineering and I learned the basic like setting the font for multiple headings so after doing that me and my group have to do research and bring our ideas together of how we will use it to help us with our project.
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
