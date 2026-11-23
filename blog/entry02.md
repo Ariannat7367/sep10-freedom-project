@@ -24,6 +24,5 @@ source 1: In the app it helped me learn how to make text bolder and under line t
  Skills:For this project I'm gonna make sure I know the simple steps of coding and get better at skills I'm struggling at which I have been doing for a while I've been studying and retrying over and over again when I make mistakes I even take notes down for it so it can help me later on in my big project.
  
 
-[Previous](entry01.md) | [Next](entry03.md)
 
-[Home](../README.md)
+
